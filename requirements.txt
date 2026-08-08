@@ -1,0 +1,13 @@
+# Vercel Python runtime — InterviewAI backend
+fastapi[standard]
+uvicorn[standard]
+python-dotenv
+pydantic-settings
+google-genai
+sqlalchemy[asyncio]
+asyncpg
+aiosqlite
+alembic
+redis
+python-multipart
+httpx
